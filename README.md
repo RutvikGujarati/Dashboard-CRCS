@@ -1,4 +1,4 @@
-# React Admin Dashboard
+![Screenshot 2023-06-19 113930](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/c80f3b38-313a-4a8b-86ca-1f38982fd5e1)# React Admin Dashboard
 
 Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 ![Screenshot 2023-06-19 111534](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/fa77bb26-eecd-443a-8cb7-78cb5499b0cc)
@@ -10,10 +10,11 @@ How to run in to your machine:
    
 --> you can analyse the data of users.
 Here are four type of charts are included:
-1. Line chart
+1. Line chart  ![Screenshot 2023-06-19 113810](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/9dafb8fa-a8b2-4d23-a38e-a73cbfc41226)
+
 2. Geographic chart  ![Screenshot 2023-06-19 113259](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/2edcc2f3-769e-4b0f-bf4f-6875aea76e1f)
 
-3. pie chart 
+3. pie chart    ![Screenshot 2023-06-19 113930](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/e387f791-679e-4074-a070-1ce50149becd)
 4. bar chart ![Screenshot 2023-06-19 113125](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/dc0ca6a8-1957-4bcb-a2b4-6f26fed2493d)
 
 
