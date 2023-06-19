@@ -3,10 +3,13 @@
 Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 ![Screenshot 2023-06-19 111534](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/fa77bb26-eecd-443a-8cb7-78cb5499b0cc)
 
-How to run in to your machine:
+requirement: node updated version
+
+How to run in to your machine?:
 1. clone the repository
 2. run the command "npm install" for node modules
-3. run "npm start"
+3. If "npm install" is not working then try to run "npm install --legacy-peer-deps" 
+4. run "npm start"
    
 --> you can analyse the data of users.
 Here are four type of charts are included:
