@@ -1,4 +1,4 @@
-![Screenshot 2023-06-19 113930](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/c80f3b38-313a-4a8b-86ca-1f38982fd5e1)# React Admin Dashboard
+# React Admin Dashboard
 
 Build a COMPLETE React Admin Dashboard App | React, Material UI, Data Grid, Light & Dark Mode
 ![Screenshot 2023-06-19 111534](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/fa77bb26-eecd-443a-8cb7-78cb5499b0cc)
@@ -27,3 +27,4 @@ These charts are showing the data of society when they are registered.
 ![Screenshot 2023-06-19 111615](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/8a31317c-61bf-44bd-9c98-7af556cd76d3)
 
 also a option for dark and light mode .
+![Screenshot 2023-06-19 111506](https://github.com/RutvikGujarati/Dashboard-CRCS/assets/125241992/8644f208-4553-4f21-bb2d-cf145d3bcc69)
